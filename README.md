@@ -9,6 +9,19 @@ I build three differnet machine learning models and checked which model gave bet
 
 ## Results 
 
+#### Accuracy - 
+![alt text](https://github.com/NikhilK-crypto/Spam-Text-Detection/blob/main/Images/Screenshot%20(37).png)
+
+#### Confusion Matrix
+Logistic Regression 
+![alt text](https://github.com/NikhilK-crypto/Spam-Text-Detection/blob/main/Images/logistic_matrx.png)
+
+Random Forest 
+![alt text](https://github.com/NikhilK-crypto/Spam-Text-Detection/blob/main/Images/randomforest.png)
+
+XGBoost 
+![alt text](https://github.com/NikhilK-crypto/Spam-Text-Detection/blob/main/Images/XGBoost_matrix.png)
+
 
 ## Front-end 
 Devloped a UI using streamlit api, where user can interact with the model. <br /><br />
