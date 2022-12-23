@@ -17,7 +17,7 @@ Logistic Regression<br /><br />
 ![alt text](https://github.com/NikhilK-crypto/Spam-Text-Detection/blob/main/Images/logistic_matrx.png)
 
 Random Forest <br /><br />
-![alt text](https://github.com/NikhilK-crypto/Spam-Text-Detection/blob/main/Images/randomforest.png)
+![alt text](https://github.com/NikhilK-crypto/Spam-Text-Detection/blob/main/Images/Random_matrix.png)
 
 XGBoost <br /><br />
 ![alt text](https://github.com/NikhilK-crypto/Spam-Text-Detection/blob/main/Images/XGBoost_matrix.png)
@@ -28,7 +28,7 @@ Logistic Regression<br /><br />
 ![alt text](https://github.com/NikhilK-crypto/Spam-Text-Detection/blob/main/Images/Logistic%20Regression.png)
 
 Random Forest <br /><br />
-![alt text](https://github.com/NikhilK-crypto/Spam-Text-Detection/blob/main/Images/Random_matrix.png)
+![alt text](https://github.com/NikhilK-crypto/Spam-Text-Detection/blob/main/Images/randomforest.png)
 
 XGBoost <br /><br />
 ![alt text](https://github.com/NikhilK-crypto/Spam-Text-Detection/blob/main/Images/XGboost.png)
