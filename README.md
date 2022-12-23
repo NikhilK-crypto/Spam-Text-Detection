@@ -17,8 +17,8 @@ just download app.py, models and transformation file and run it. Make sure you h
 
 ## necessary packages to run the app.py 
 streamlit<br />
-joblib<br /><br />
-nltk<br /><br />
-re <br /><br />
+joblib<br />
+nltk<br />
+re <br />
 
 
