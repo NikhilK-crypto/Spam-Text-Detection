@@ -10,10 +10,10 @@ I build three differnet machine learning models and checked which model gave bet
 ## Results 
 
 #### Accuracy - 
-![alt text](https://github.com/NikhilK-crypto/Spam-Text-Detection/blob/main/Images/Screenshot%20(37).png)
+![alt text](https://github.com/NikhilK-crypto/Spam-Text-Detection/blob/main/Images/accuracy.png)
 
 #### Confusion Matrix
-Logistic Regression 
+Logistic Regression<br /><br />
 ![alt text](https://github.com/NikhilK-crypto/Spam-Text-Detection/blob/main/Images/logistic_matrx.png)
 
 Random Forest 
