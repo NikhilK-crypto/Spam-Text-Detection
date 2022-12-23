@@ -16,12 +16,22 @@ I build three differnet machine learning models and checked which model gave bet
 Logistic Regression<br /><br />
 ![alt text](https://github.com/NikhilK-crypto/Spam-Text-Detection/blob/main/Images/logistic_matrx.png)
 
-Random Forest 
+Random Forest <br /><br />
 ![alt text](https://github.com/NikhilK-crypto/Spam-Text-Detection/blob/main/Images/randomforest.png)
 
-XGBoost 
+XGBoost <br /><br />
 ![alt text](https://github.com/NikhilK-crypto/Spam-Text-Detection/blob/main/Images/XGBoost_matrix.png)
 
+#### Classification Report
+
+Logistic Regression<br /><br />
+![alt text](https://github.com/NikhilK-crypto/Spam-Text-Detection/blob/main/Images/Logistic%20Regression.png)
+
+Random Forest <br /><br />
+![alt text](https://github.com/NikhilK-crypto/Spam-Text-Detection/blob/main/Images/Random_matrix.png)
+
+XGBoost <br /><br />
+![alt text](https://github.com/NikhilK-crypto/Spam-Text-Detection/blob/main/Images/XGboost.png)
 
 ## Front-end 
 Devloped a UI using streamlit api, where user can interact with the model. <br /><br />
