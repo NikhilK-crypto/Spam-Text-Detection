@@ -12,8 +12,8 @@ I build three differnet machine learning models and checked which model gave bet
 
 ## Front-end 
 Devloped a UI using streamlit api, where user can interact with the model. <br /><br />
-https://github.com/NikhilK-crypto/Spam-Text-Detection/blob/main/Images/Screenshot%20(37).png
-just download app.py, models and transformation file and run it. Make sure you have necessary packages installed on your pc <br /><br />
+![alt text]https://github.com/NikhilK-crypto/Spam-Text-Detection/blob/main/Images/Screenshot%20(37).png 
+<br /><br />just download app.py, models and transformation file and run it. Make sure you have necessary packages installed on your pc <br /><br />
 
 
 ## necessary packages to run the app.py 
